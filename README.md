@@ -105,7 +105,3 @@ Key settings are in `Fuel/AppConfiguration.swift`:
 5. **Widget** — Add the Fuel widget to your home screen for an at-a-glance view.
 
 ---
-
-## Contact
-
-Steven Nguyen — [stevenn348@gmail.com](mailto:stevenn348@gmail.com)
